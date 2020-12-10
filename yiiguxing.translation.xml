@@ -1,0 +1,49 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="granted" />
+      <item value="a positive integer used to identify the view or {@link NO_ID} if the view has no ID" />
+      <item value="true to display the item as the selected item and false if the item should not be selected. Consider setting non-selectable items as disabled preemptively to make them appear non-interactive." />
+      <item value="suppress" />
+      <item value="If false, no state will be saved for this view when it is being frozen. The default is true, allowing the view to be saved (however it also must have an ID assigned to it for its state to be saved). Setting this to false only disables the state for this view, not for its children which may still be saved." />
+      <item value="Millis" />
+      <item value="predicate" />
+      <item value="Sign In" />
+      <item value="&lt;p class=&quot;note&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt; This class is included in the &lt;a * href=&quot;{@docRoot}tools/extras/support-library.html&quot;&gt;support library&lt;/a&gt; for compatibility * with API level 7 and higher. If you're developing your app for API level 11 and higher * &lt;em&gt;only&lt;/em&gt;, you should instead use the framework {@link android.widget.SearchView} class.&lt;/p&gt; *" />
+      <item value="true if the listener wants to override the default behavior of clearing the * text field and dismissing it" />
+      <item value="Utility methods for handling Dialog Windows" />
+      <item value="There is no onDestroy in Dialog, so we simulate it from dismiss()" />
+      <item value="Any arbitrary value used to indicate a variation of a &lt;code&gt;Locale&lt;/code&gt;. * See the &lt;code&gt;Locale&lt;/code&gt; class description for the details." />
+      <item value="True to kill the process, false otherwise." />
+      <item value="capacity" />
+      <item value="eturns the identifier of the selected radio button in this group. * Upon empty selection, the returned value is -1." />
+      <item value="Instructs the Kotlin compiler to generate `writeToParcel()`, `describeContents()` [android.os.Parcelable] methods, * as well as a `CREATOR` factory class automatically." />
+      <item value="The annotation is applicable only to classes that implements [android.os.Parcelable] (directly or indirectly). * Note that only the primary constructor properties will be serialized." />
+      <item value="noinspection GradleDependency" />
+      <item value="quantity" />
+      <item value="Returns a [Lazy] delegate to access the ComponentActivity's ViewModel, if [factoryProducer] * is specified then [ViewModelProvider.Factory] returned by it will be used * to create [ViewModel] first time." />
+      <item value="A Context of the application package implementing * this class." />
+      <item value="Do not pass a resource ID. To get a color value from a resource ID," />
+      <item value="True if the listener has consumed the event, false otherwise." />
+      <item value="IMPLICIT" />
+      <item value="Whether the TextInputEditText should use the TextInputLayout's focused rectangle instead of its own" />
+      <item value="Whether the TextInputEditText should use the TextInputLayout's focused rectangle instead of its own." />
+      <item value="Evaluates the pending bindings, updating any Views that have expressions bound to * modified variables. This &lt;b&gt;must&lt;/b&gt; be run on the UI thread." />
+      <item value="arguments" />
+      <item value="Return the arguments supplied when the fragment was instantiated," />
+      <item value="to avoid creation of a synthetic accessor" />
+      <item value="solid" />
+      <item value="VARIATION" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607244834189" />
+  </component>
+</application>

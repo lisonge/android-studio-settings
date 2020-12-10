@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="-6af824d1:1758bbe7930:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
